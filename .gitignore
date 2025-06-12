@@ -98,3 +98,8 @@ src/getFrontWindow/obj
 src/GetData2/.vs
 src/GetData2/bin
 src/GetData2/obj
+.fake
+blaine-tracker-src
+.venv
+.env
+venv
